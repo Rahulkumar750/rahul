@@ -1,4 +1,1 @@
-# rahul
-this is my first git repo
-<br>
-author RAHUL
+Stock Trading applicatipn
